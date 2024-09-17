@@ -1,4 +1,4 @@
-# pengalaman-belajarku
+Pengalaman belajar di Dicoding(Bangkit Academy)
 
 11 September 2024
 Belajar Logika Pemrograman
