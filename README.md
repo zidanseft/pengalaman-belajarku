@@ -14,3 +14,6 @@ Belajar Git dan Github
 - Membuat Gihub sebagai Portofolio
 - Belajar mengenai bahasa Markdown
 
+**18 September 2024**<br>
+Belajar Dasar Bahasa Pemrograman Kotlin
+- Belajar Kotlin Fundamental dan Control Flow
